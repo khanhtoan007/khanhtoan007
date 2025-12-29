@@ -1,10 +1,6 @@
 # 💫 About Me:
 I’m working as a Backend Developer and learning DevOps<br><br>Currently exploring system architecture and cloud engineering<br><br>I’m interested in Backend, CI/CD, Docker, Kubernetes, and Terraform<br><br>In my free time I solve LeetCode problems, learn about cloud architecture, part-time freelancer and improve my English
 
-Work log - Projects I'm working on, some might open source, some not ^^
-- POD: using Laravel and React, automation test using Python ( small hobby ^^ )
-- Smart Inventory Management: NestJS + React + IoT sensor
-
 Open for job oppoturnity and freelance collaboration!
 
 ## 🌐 Socials:
